@@ -1,0 +1,63 @@
+{
+  "ofertes": [
+    {
+      "id": "01",
+      "empresa": "Empresa01",
+      "perfils": [
+        "ASIX",
+        "DAW",
+        "CIBER"
+      ],
+      "carateristiques": "sdfasdfasdf",
+      "contacte": "info@empresa01.com",
+      "estat": "Activa"
+    },
+    {
+      "id": "02",
+      "empresa": "Empresa02",
+      "perfils": [
+        "ASIX",
+        "DAW",
+        "DAM"
+      ],
+      "carateristiques": "sdfasdfasdf",
+      "contacte": "info@empresa02.com",
+      "estat": "Activa"
+    },
+    {
+      "id": "03",
+      "empresa": "Empresa01",
+      "perfils": [
+        "ASIX",
+        "DAW",
+        "FPB"
+      ],
+      "carateristiques": "sdfasdfasdf",
+      "contacte": "info@empresa03.com",
+      "estat": "Activa"
+    },
+    {
+      "id": "04",
+      "empresa": "Empresa04",
+      "perfils": [
+        "ASIX",
+        "DAW",
+        "SMX"
+      ],
+      "carateristiques": "sdfasdfasdf",
+      "contacte": "info@empresa04.com",
+      "estat": "Activa"
+    },
+    {
+      "id": "088",
+      "empresa": "Dulcesol",
+      "perfils": [
+        "DAM",
+        "DAW"
+      ],
+      "caracteristiques": "Responsable de xarxes",
+      "contacte": "info@dulcesol.com",
+      "estat": "Activa"
+    }
+  ]
+}
